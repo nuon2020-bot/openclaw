@@ -1,0 +1,1 @@
+[phases.build]`ncmds = []`n`n[start]`ncmd = "node openclaw.mjs gateway start"
